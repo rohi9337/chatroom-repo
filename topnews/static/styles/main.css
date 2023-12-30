@@ -1,0 +1,36 @@
+body {
+  background-color: aquamarine;
+}
+  
+  /* Selector for a class
+  .container {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #ffffff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Selector for an ID */
+  /* #header {
+    background-color: #333333;
+    color: #ffffff;
+    padding: 10px;
+  }
+  
+  /* Selector for an element */
+  /* h1 {
+    font-size: 24px;
+    /* margin-bottom: 20px;
+  } */
+  
+  /* Selector for a specific HTML element */
+  /* a {
+    color: #007bff;
+    text-decoration: none;
+  } */
+  
+  /* Selector for a hover effect on links */
+  /* a:hover {
+    text-decoration: underline;
+  }  */
